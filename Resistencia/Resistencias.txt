@@ -1,0 +1,3 @@
+1, Naranja, Azul, Blanco, Plata
+2, Azul, Violeta/Morado, Amarillo, Oro
+3, Amarillo, Negro, Violeta/Morado, Oro
